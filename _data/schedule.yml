@@ -24,16 +24,16 @@
 - date: 9/11
   lecturer: Grant
   title: <strong>ConvNets</strong>
-readings:
-  - title: "[VGG] Very Deep Convolutional Networks for Large-Scale Image Recognition"
-    url: https://arxiv.org/abs/1409.1556
-    authors: "Karen Simonyan, Andrew Zisserman"
-  - title: "[ResNet] Deep residual learning for image recognition"
-    url: https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
-    authors: "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun"
-  - title: "MobileNets: efficient convolutional neural networks for mobile vision applications"
-    url: https://arxiv.org/abs/1704.04861
-    authors: "Andrew Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam"
+  readings:
+    - title: "[VGG] Very Deep Convolutional Networks for Large-Scale Image Recognition"
+      url: https://arxiv.org/abs/1409.1556
+      authors: "Karen Simonyan, Andrew Zisserman"
+    - title: "[ResNet] Deep residual learning for image recognition"
+      url: https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
+      authors: "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun"
+    - title: "MobileNets: efficient convolutional neural networks for mobile vision applications"
+      url: https://arxiv.org/abs/1704.04861
+      authors: "Andrew Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam"
 
 - date: 9/15
   logistics:
