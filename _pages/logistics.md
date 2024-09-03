@@ -15,8 +15,8 @@ The primary material for this course will be research papers, which will be list
 
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (available online)
 * [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) by Richard Szeliski (2nd ed., available online)
-* [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon J. D. Prince
 * [Computer Vision: A Modern Approach](http://luthuli.cs.uiuc.edu/~daf/book/book.html) by David Forsyth and Jean Ponce (2nd ed.)
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon J. D. Prince
 * [Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/) by Kevin P. Murphy
 
 ***
