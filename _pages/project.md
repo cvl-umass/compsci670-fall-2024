@@ -2,10 +2,10 @@
 layout: page
 permalink: /project/
 title: Course Project
-description: Guidelines and suggestions for course projects
+description: Guidelines for the course project
 ---
 
-Your class project is an opportunity to explore an interesting problem using real-world datasets within the broad domain of computer vision. This includes, but is not limited to, topics such as machine learning over visual data, interaction with visual data, computational photography, computer graphics, vision-language models, and the application of computer vision in fields like medical imaging, ecology, astronomy, remote sensing, and beyond. Interdisciplinary and novel applications are highly encouraged, and it is also perfectly acceptable to extend an existing paper in novel directions—whether by exploring different assumptions, datasets, or constraints. The ultimate goal is to develop a project that, in ideal situations, could be submitted to a workshop at a computer vision conference.
+Your course project is an opportunity to explore an interesting problem using real-world datasets within the broad domain of computer vision. This includes, but is not limited to, topics such as machine learning over visual data, interaction with visual data, computational photography, computer graphics, vision-language models, and the application of computer vision in fields like medical imaging, ecology, astronomy, remote sensing, and beyond. Interdisciplinary and novel applications are highly encouraged, and it is also perfectly acceptable to extend an existing paper in novel directions—whether by exploring different assumptions, datasets, or constraints. The ultimate goal is to develop a project that, in ideal situations, could be submitted to a workshop at a computer vision conference.
 
 While the instructor and TAs will provide guidance and feedback, the responsibility for defining and executing an impactful piece of work lies with you and your team. This project is designed to teach you how to conduct research in the field of computer vision, including determining relevant related work, performing experiments, and clearly communicating your results. Your project will constitute 100% of your final grade and will be evaluated based on originality, technical depth, quality of writing, and presentation skills. Active participation from all team members in each of the presentations is required, and clear, well-structured class presentations and a polished final poster presentation are crucial to achieving a successful grade. The project has seven required deliverables:
 
@@ -35,22 +35,22 @@ Each project proposal should include the following elements:
 - **Title**
 - **Overview**: A brief description of the idea, its goals, and its connection to existing work.
 - **Data Requirements**: The source, volume, and storage plan for the required data.
-- **Compute Requirements**: Estimated compute needs, including whether GPUs are required and how they will be provisioned.
+- **Compute Requirements**: Estimated compute needs, including whether GPUs or other specialized hardware are required.
 
 ### Grading Breakdown
 
 - **40%**: Clarity and conciseness of the project descriptions.
 - **30%**: Quality and relevance of the literature survey.
-- **30%**: Practicality and clarity of the data and compute requirements.
+- **30%**: Practicality of the data and compute requirements.
 
 
 ## Team Formation and Project Proposals
 
 ### Team Formation
-After submitting individual project ideas, students will have the opportunity to view all proposed ideas and form teams of 2-3 members. Teams will be fixed for the remainder of the semester. Individual projects will only be considered under exceptional circumstances. Once teams are formed, they will refine and select a single project from the pool of ideas to focus on for the semester.
+After submitting individual project ideas, students will have the opportunity to view all proposed ideas and form teams of 2-3 members. Teams will be fixed for the remainder of the semester. Individual projects will only be considered under exceptional circumstances. Once teams are formed, they will select and refine a single project from the pool of ideas to focus on for the semester.
 
 ### Project Proposal
-Each team will submit a two-page project proposal that outlines their chosen project. The proposal should be concise but thorough, covering the following elements:
+Each team will submit a two-page project proposal (excluding references) that outlines their chosen project. The proposal should be concise but thorough, covering the following elements:
 
 - **Title and Group Members**: The project title and names of all team members.
 - **Overview**: A clear description of the project idea, including the main question or hypothesis, project goals, and what existing work the project will build upon or extend. Explain the expected beneficial outcome of the project.

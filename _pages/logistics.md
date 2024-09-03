@@ -11,17 +11,13 @@ title: Logistics
 
 ### Textbooks
 
-The primary material for this course will be research papers, which will be listed on the lectures page. There is no required textbook for this class. However, the following textbooks are highly recommended and may prove useful:
+The primary material for this course will be research papers, which will be listed on the schedule page. There is no required textbook for this class. However, the following textbooks are highly recommended and may prove useful:
 
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (available online)
 * [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) by Richard Szeliski (2nd ed., available online)
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon J. D. Prince
 * [Computer Vision: A Modern Approach](http://luthuli.cs.uiuc.edu/~daf/book/book.html) by David Forsyth and Jean Ponce (2nd ed.)
 * [Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/) by Kevin P. Murphy
-* [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by T. Hastie, R. Tibshirani, and J. Friedman
-* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop (available online)
-* [Machine Learning](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html) by Tom M. Mitchell
-* [A Course in Machine Learning](http://ciml.info/) by Hal Daumé III (available online)
 
 ***
 
@@ -73,7 +69,7 @@ This course follows a strict project schedule, and as such, late assignments wil
 
 ***
 
-#### Regrade Policy
+### Regrade Policy
 
 If you believe there has been an error in the grading of your project artifacts, please submit a regrade request through Gradescope. We will carefully review your request, but please be aware that a regrade may result in your grade being adjusted either upward or downward. Regrade requests must be submitted within one week of the initial grade being posted.
 

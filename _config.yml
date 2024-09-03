@@ -6,12 +6,12 @@ name: COMPSCI 670
 title: Computer Vision
 email: gvanhorn@umass.edu
 description: >
-  COMPSCI 670 - Computer Vision - University of Massachusetts, Amherst - Spring 2024
+  COMPSCI 670 - Computer Vision - University of Massachusetts, Amherst - Fall 2024
 footer_text: >
   Based on the <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU, powered by <a href="http://jekyllrb.com/" target="_blank">jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
 
 url: https://cvl-umass.github.io/ # the base hostname & protocol for your site
-baseurl: compsci670-spring-2024 # the subpath of your site, e.g. /blog/
+baseurl: compsci670-fall-2024 # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
