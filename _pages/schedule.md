@@ -37,20 +37,23 @@ title: Schedule
         </td>
         <td>
             {% if lecture.readings %}
-                <ul>
-                {% for reading in lecture.readings %}
-                    <li>
-                        {% if reading.url %}
-                            <a href="{{ reading.url }}">{{ reading.title }}</a>
-                        {% else %}
-                            {{ reading.title }}
-                        {% endif %}
-                        {% if reading.authors %}
-                            - {{ reading.authors }}
-                        {% endif %}
-                    </li>
-                {% endfor %}
-                </ul>
+            <ul style="list-style-type: none; padding: 0;">
+            {% for reading in lecture.readings %}
+                <li style="margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #ccc;">
+                    {% if reading.url %}
+                        <strong style="font-size: 1.1em;"><a href="{{ reading.url }}" style="text-decoration: none; color: #2c3e50;">{{ reading.title }}</a></strong>
+                    {% else %}
+                        <strong style="font-size: 1.1em; color: #2c3e50;">{{ reading.title }}</strong>
+                    {% endif %}
+                    {% if reading.authors %}
+                        <div style="font-size: 0.9em; color: #7f8c8d; margin-top: 5px;">{{ reading.authors }}</div>
+                    {% endif %}
+                    {% if reading.year %}
+                        <div style="font-size: 0.8em; color: #95a5a6; margin-top: 3px;">{{ reading.year }}</div>
+                    {% endif %}
+                </li>
+            {% endfor %}
+            </ul>
             {% endif %}
         </td>
         <td>
