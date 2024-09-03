@@ -1,6 +1,6 @@
 ---
 layout: schedule
-permalink: /lectures/
+permalink: /schedule/
 title: Schedule
 ---
 
@@ -8,7 +8,7 @@ title: Schedule
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures %}
+{% for item in site.data.schedule %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
