@@ -16,7 +16,7 @@
       url: http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
       authors: "Yann LeCun, Bernhard Boser, John S. Denker, Donnie Henderson, Richard E. Howard, Wayne Hubbard, and Lawrence D. Jackel"
       year: 1989
-    - title: "[ImageNet] A Large-Scale Hierarchical Image Database"
+    - title: "ImageNet: A Large-Scale Hierarchical Image Database"
       url: https://wayback.stanford.edu/was/20180311070624mp_/http://vision.stanford.edu/pdf/ImageNet_CVPR2009.pdf
       authors: "Deng, Jia, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei"
       year: 2009
@@ -67,7 +67,7 @@
       url: https://arxiv.org/abs/2111.06377
       authors: "Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollar, Ross Girshick"
       year: 2021
-    - title: "Dino: Emerging Properties in Self-Supervised Vision Transformers"
+    - title: "[DINO] Emerging Properties in Self-Supervised Vision Transformers"
       url: https://arxiv.org/abs/2104.14294
       authors: "Mathilde Caron, Hugo Touvron, Ishan Misra, Herve Jegou, Julien Mairal, Piotr Bojanowski, Armand Joulin"
       year: 2021
@@ -101,7 +101,7 @@
       url: https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf
       authors: "Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick"
       year: 2017
-    - title: "SAM: Segment Anything"
+    - title: "[SAM] Segment Anything"
       url: https://arxiv.org/abs/2304.02643
       authors: "Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick"
       year: 2023
