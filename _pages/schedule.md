@@ -37,11 +37,20 @@ title: Schedule
         </td>
         <td>
             {% if lecture.readings %}
-            <ul>
-            {% for reading in lecture.readings %}
-                <li>{{ reading }}</li>
-            {% endfor %}
-            </ul>
+                <ul>
+                {% for reading in lecture.readings %}
+                    <li>
+                        {% if reading.url %}
+                            <a href="{{ reading.url }}">{{ reading.title }}</a>
+                        {% else %}
+                            {{ reading.title }}
+                        {% endif %}
+                        {% if reading.authors %}
+                            - {{ reading.authors }}
+                        {% endif %}
+                    </li>
+                {% endfor %}
+                </ul>
             {% endif %}
         </td>
         <td>
