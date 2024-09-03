@@ -1,0 +1,77 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+author: Grant Van Horn
+name: COMPSCI 670
+title: Computer Vision
+email: gvanhorn@umass.edu
+description: >
+  COMPSCI 670 - Computer Vision - University of Massachusetts, Amherst - Spring 2024
+footer_text: >
+  Based on the <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU, powered by <a href="http://jekyllrb.com/" target="_blank">jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
+
+url: https://cvl-umass.github.io/ # the base hostname & protocol for your site
+baseurl: compsci670-spring-2024 # the subpath of your site, e.g. /blog/
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: cvl-umass
+google_analytics: 
+youtube_channel:
+rss:  # notes rss
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+blog_name: Course Notes
+blog_description: The notes written by students and edited by instructors
+
+# Comments
+disqus_shortname: # put your disqus shortname
+
+# Optional features
+show_social_icons:  true
+enable_anchorjs:    true
+enable_latexjs:     true
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  announcements:
+    defaults:
+      layout: post
+    output: true
+    permalink: /announcements/:path/
+
+announcements_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
+
+# Plug-ins
+plugins:
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jemoji
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.10.1"
+anchorjs_version: "3.2.2"
+latexjs_version: "0.11.1"
+
+theme: jekyll-theme-slate
