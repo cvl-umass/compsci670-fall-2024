@@ -64,7 +64,7 @@ title: Schedule
         {% assign skip_classes = skip_classes | plus: 1 %}
         <td></td>
         <td></td>
-        <td colspan="4" align="center">{{ lecture.logistics }}</td>
+        <td class="warning"><p>{{ lecture.logistics }}</p></td>
     {% endif %}
 </tr>
 {% else %}
