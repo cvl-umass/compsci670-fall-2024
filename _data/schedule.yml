@@ -2,7 +2,6 @@
   lecturer: Grant
   title: <strong>Introduction</strong>
    
-
 - date: 9/9
   lecturer: Grant
   title: <strong>ConvNets</strong>
@@ -15,6 +14,11 @@
       url: http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
       authors: "Yann LeCun, Bernhard Boser, John S. Denker, Donnie Henderson, Richard E. Howard, Wayne Hubbard, and Lawrence D. Jackel"
       year: 1989
+
+- date: 9/11
+  lecturer: Grant
+  title: <strong>ConvNets</strong>
+  readings:
     - title: "ImageNet: A Large-Scale Hierarchical Image Database"
       url: https://wayback.stanford.edu/was/20180311070624mp_/http://vision.stanford.edu/pdf/ImageNet_CVPR2009.pdf
       authors: "Deng, Jia, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei"
@@ -23,11 +27,6 @@
       url: https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
       authors: "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton"
       year: 2012
-
-- date: 9/11
-  lecturer: Grant
-  title: <strong>ConvNets</strong>
-  readings:
     - title: "[VGG] Very Deep Convolutional Networks for Large-Scale Image Recognition"
       url: https://arxiv.org/abs/1409.1556
       authors: "Karen Simonyan, Andrew Zisserman"
