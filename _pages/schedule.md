@@ -41,7 +41,7 @@ title: Schedule
             {% for reading in lecture.readings %}
                 <li style="margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #ccc;">
                     {% if reading.url %}
-                        <strong style="font-size: 1.1em;"><a href="{{ reading.url }}" style="text-decoration: none; color: #2c3e50;">{{ reading.title }}</a></strong>
+                        <strong style="font-size: 1.1em;"><a href="{{ reading.url }}" target="_blank" style="text-decoration: none; color: #2c3e50;">{{ reading.title }}</a></strong>
                     {% else %}
                         <strong style="font-size: 1.1em; color: #2c3e50;">{{ reading.title }}</strong>
                     {% endif %}
