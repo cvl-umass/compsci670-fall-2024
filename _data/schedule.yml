@@ -31,6 +31,13 @@
       url: https://arxiv.org/abs/1409.1556
       authors: "Karen Simonyan, Andrew Zisserman"
       year: 2014
+  
+- date: 9/16
+  lecturer: Grant
+  title: <strong>ConvNets</strong>
+  logistics:
+    <span class="deadline">Proposal Ideas Due</span>
+  readings:
     - title: "[ResNet] Deep residual learning for image recognition"
       url: https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
       authors: "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun"
@@ -40,11 +47,7 @@
       authors: "Andrew Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam"
       year: 2017
 
-- date: 9/15
-  logistics:
-    <span class="deadline">Proposal Ideas Due</span>
-
-- date: 9/16
+- date: 9/18
   lecturer: Grant
   title: <strong>Transformers</strong>
   readings:
@@ -57,7 +60,11 @@
       authors: "Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo"
       year: 2021
 
-- date: 9/18
+- date: 9/22
+  logistics:
+    <span class="deadline">Team Formation Deadline</span>
+
+- date: 9/23
   lecturer: Grant
   title: <strong>Self-Supervision</strong>
   readings:
@@ -70,11 +77,7 @@
       authors: "Mathilde Caron, Hugo Touvron, Ishan Misra, Herve Jegou, Julien Mairal, Piotr Bojanowski, Armand Joulin"
       year: 2021
 
-- date: 9/22
-  logistics:
-    <span class="deadline">Team Formation Deadline</span>
-
-- date: 9/23
+- date: 9/25
   lecturer: Grant
   title: <strong>Detection</strong>
   readings:
@@ -91,19 +94,6 @@
       authors: "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi"
       year: 2015
 
-- date: 9/25
-  lecturer: Grant
-  title: <strong>Segmentation</strong>
-  readings:
-    - title: "Mask-RCNN"
-      url: https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf
-      authors: "Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick"
-      year: 2017
-    - title: "[SAM] Segment Anything"
-      url: https://arxiv.org/abs/2304.02643
-      authors: "Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick"
-      year: 2023
-
 - date: 9/29
   logistics:
     <span class="deadline">Project Proposal Report and Presentations Due</span>
@@ -118,8 +108,21 @@
 
 - date: 10/7
   lecturer: Grant
-  title: <strong>TBD</strong>
-
+  title: <strong>Segmentation</strong>
+  readings:
+    - title: "Mask-RCNN"
+      url: https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf
+      authors: "Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick"
+      year: 2017
+    - title: "[SAM] Segment Anything"
+      url: https://arxiv.org/abs/2304.02643
+      authors: "Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick"
+      year: 2023
+    - title: "[SAM2] Segment Anything in Images and Videos"
+      url: https://arxiv.org/abs/2408.00714
+      authors: "Nikhila Ravi, Valentin Gabeur, Yuan-Ting Hu, Ronghang Hu, Chaitanya Ryali, Tengyu Ma, Haitham Khedr, Roman Rädle, Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár, Christoph Feichtenhofer"
+      year: 2024
+    
 - date: 10/9
   lecturer: Grant
   title: <strong>TBD</strong>
