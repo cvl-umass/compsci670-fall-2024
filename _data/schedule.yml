@@ -78,6 +78,23 @@
       year: 2021
 
 - date: 9/25
+  title: <strong>GenAI Workshop</strong>
+  logistics:
+    <a href="https://genai-workshop.cs.umass.edu/index.html" target="_blank">Rising Stars in GenAI</a>
+
+- date: 9/29
+  logistics:
+    <span class="deadline">Project Proposal Report and Presentations Due</span>
+
+- date: 9/30
+  lecturer: Grant
+  title: <strong>Project Proposal Presentations</strong>
+
+- date: 10/2
+  lecturer: Grant
+  title: <strong>Project Proposal Presentations</strong>
+
+- date: 10/7
   lecturer: Grant
   title: <strong>Detection</strong>
   readings:
@@ -94,19 +111,7 @@
       authors: "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi"
       year: 2015
 
-- date: 9/29
-  logistics:
-    <span class="deadline">Project Proposal Report and Presentations Due</span>
-
-- date: 9/30
-  lecturer: Grant
-  title: <strong>Project Proposal Presentations</strong>
-
-- date: 10/2
-  lecturer: Grant
-  title: <strong>Project Proposal Presentations</strong>
-
-- date: 10/7
+- date: 10/9
   lecturer: Grant
   title: <strong>Segmentation</strong>
   readings:
@@ -122,10 +127,6 @@
       url: https://arxiv.org/abs/2408.00714
       authors: "Nikhila Ravi, Valentin Gabeur, Yuan-Ting Hu, Ronghang Hu, Chaitanya Ryali, Tengyu Ma, Haitham Khedr, Roman Rädle, Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár, Christoph Feichtenhofer"
       year: 2024
-    
-- date: 10/9
-  lecturer: Grant
-  title: <strong>TBD</strong>
 
 - date: 10/15
   lecturer: Grant
