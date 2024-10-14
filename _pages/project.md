@@ -77,7 +77,7 @@ Teams will prepare a 3-minute presentation to share their project proposal with 
 ## Midpoint Project Report and Presentation
 
 ### Midpoint Project Report
-Teams are required to submit a 4-page midpoint project report (excluding references) that extends their initial project proposal. The midpoint report should include the following:
+Teams are required to submit a 4-page midpoint project report (excluding references) that extends their initial project proposal. Submissions cannot exceed 4-pages, excluding references. The midpoint report should include the following:
 
 - **Preliminary Results**: Present a preliminary set of results from your experiments.
 - **Results Analysis**: Provide a detailed analysis of these preliminary results, discussing what they indicate and any initial conclusions you can draw.
@@ -105,7 +105,7 @@ Teams will also deliver a 4-minute presentation to update the class on their pro
 ## Final Project Report and Poster Presentation
 
 ### Final Project Report
-Teams will extend their midpoint project reports to include the final results, an analysis of those results, and the overall conclusions drawn from the project. Additionally, the project description, related work, and dataset and compute requirements sections should be finalized to reflect the full scope and refinement of the project.
+Teams will extend their midpoint project reports to include the final results, an analysis of those results, and the overall conclusions drawn from the project. Additionally, the project description, related work, and dataset and compute requirements sections should be finalized to reflect the full scope and refinement of the project. Submissions cannot exceed 8-pages, excluding references.
 
 The final report should include the following:
 

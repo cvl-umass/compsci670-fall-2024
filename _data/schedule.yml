@@ -87,11 +87,11 @@
     <span class="deadline">Project Proposal Report and Presentations Due</span>
 
 - date: 9/30
-  lecturer: Grant
+  lecturer: Students
   title: <strong>Project Proposal Presentations</strong>
 
 - date: 10/2
-  lecturer: Grant
+  lecturer: Students
   title: <strong>Project Proposal Presentations</strong>
 
 - date: 10/7
@@ -130,38 +130,92 @@
 
 - date: 10/15
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Semi-Supervised Learning</strong>
+  readings:
+    - title: "Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results"
+      url: https://arxiv.org/abs/1703.01780
+      authors: "Antti Tarvainen, Harri Valpola"
+      year: 2017
+    - title: "Realistic Evaluation of Deep Semi-Supervised Learning Algorithms"
+      url: https://arxiv.org/abs/1804.09170
+      authors: "Avital Oliver, Augustus Odena, Colin Raffel, Ekin D. Cubuk, Ian J. Goodfellow"
+      year: 2018
 
 - date: 10/16
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Semi-Supervised Learning</strong>
+  readings:
+    - title: "MixMatch: A Holistic Approach to Semi-Supervised Learning"
+      url: https://arxiv.org/abs/1905.02249
+      authors: "David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin A Raffel"
+      year: 2019
+    - title: "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence"
+      url: https://arxiv.org/abs/2001.07685
+      authors: "Kihyuk Sohn, David Berthelot, Chun-Liang Li, Zizhao Zhang, Nicholas Carlini, Ekin D. Cubuk, Alex Kurakin, Han Zhang, Colin Raffel"
+      year: 2020
 
 - date: 10/21
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Current Backbones</strong>
+  readings:
+    - title: "EfficientNetV2: Smaller Models and Faster Training"
+      url: https://arxiv.org/abs/2104.00298
+      authors: "Mingxing Tan, Quoc V. Le"
+      year: 2021
+    - title: "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders"
+      url: https://arxiv.org/abs/2301.00808
+      authors: "Sanghyun Woo, Shoubhik Debnath, Ronghang Hu, Xinlei Chen, Zhuang Liu, In So Kweon, Saining Xie"
+      year: 2023
 
 - date: 10/23
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Current Backbones</strong>
+  readings:
+    - title: "Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles"
+      url: https://arxiv.org/abs/2306.00989
+      authors: "Chaitanya Ryali, Yuan-Ting Hu, Daniel Bolya, Chen Wei, Haoqi Fan, Po-Yao Huang, Vaibhav Aggarwal, Arkabandhu Chowdhury, Omid Poursaeed, Judy Hoffman, Jitendra Malik, Yanghao Li, Christoph Feichtenhofer"
+      year: 2023
+    - title: "RepViT: Revisiting Mobile CNN From ViT Perspective"
+      url: https://arxiv.org/abs/2307.09283
+      authors: "Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding"
+      year: 2023
 
 - date: 10/28
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Vision + Language</strong>
+  readings:
+    - title: "Contrastive Learning of Medical Visual Representations from Paired Images and Text"
+      url: https://arxiv.org/abs/2010.00747
+      authors: "Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz"
+      year: 2020
+    - title: "[ALIGN] Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision"
+      url: https://arxiv.org/abs/2102.05918
+      authors: "Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig"
+      year: 2021
 
 - date: 10/30
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Vision + Language</strong>
+  readings:
+    - title: "[CLIP] Learning Transferable Visual Models From Natural Language Supervision"
+      url: https://arxiv.org/abs/2103.00020
+      authors: "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever"
+      year: 2021
+    - title: "What does CLIP know about a red circle? Visual prompt engineering for VLMs"
+      url: https://arxiv.org/abs/2304.06712
+      authors: "Aleksandar Shtedritski, Christian Rupprecht, Andrea Vedaldi"
+      year: 2023
 
 - date: 11/3
-  logistics:
+  logistics: 
     <span class="deadline">Project Midpoint Report and Presentations Due</span>
 
 - date: 11/4
-  lecturer: Grant
+  lecturer: Students
   title: <strong>Project Midpoint Presentations</strong>
 
 - date: 11/6
-  lecturer: Grant
+  lecturer: Students
   title: <strong>Project Midpoint Presentations</strong>
 
 - date: 11/13
