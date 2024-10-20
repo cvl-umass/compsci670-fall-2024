@@ -156,16 +156,16 @@
 
 - date: 10/21
   lecturer: Grant
-  title: <strong>Current Backbones</strong>
+  title: <strong>Multilabel Classification & Calibration</strong>
   readings:
-    - title: "EfficientNetV2: Smaller Models and Faster Training"
-      url: https://arxiv.org/abs/2104.00298
-      authors: "Mingxing Tan, Quoc V. Le"
-      year: 2021
-    - title: "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders"
-      url: https://arxiv.org/abs/2301.00808
-      authors: "Sanghyun Woo, Shoubhik Debnath, Ronghang Hu, Xinlei Chen, Zhuang Liu, In So Kweon, Saining Xie"
-      year: 2023
+    - title: "Asymmetric Loss For Multi-Label Classification"
+      url: https://arxiv.org/abs/2009.14119
+      authors: "Emanuel Ben-Baruch, Tal Ridnik, Nadav Zamir, Asaf Noy, Itamar Friedman, Matan Protter, Lihi Zelnik-Manor"
+      year: 2020
+    - title: "Towards Calibrated Multi-label Deep Neural Networks"
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_Towards_Calibrated_Multi-label_Deep_Neural_Networks_CVPR_2024_paper.pdf
+      authors: "Jiacheng Cheng, Nuno Vasconcelos"
+      year: 2024
 
 - date: 10/23
   lecturer: Grant
