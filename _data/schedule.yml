@@ -184,19 +184,6 @@
   lecturer: Grant
   title: <strong>Vision + Language</strong>
   readings:
-    - title: "Contrastive Learning of Medical Visual Representations from Paired Images and Text"
-      url: https://arxiv.org/abs/2010.00747
-      authors: "Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz"
-      year: 2020
-    - title: "[ALIGN] Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision"
-      url: https://arxiv.org/abs/2102.05918
-      authors: "Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig"
-      year: 2021
-
-- date: 10/30
-  lecturer: Grant
-  title: <strong>Vision + Language</strong>
-  readings:
     - title: "[CLIP] Learning Transferable Visual Models From Natural Language Supervision"
       url: https://arxiv.org/abs/2103.00020
       authors: "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever"
@@ -205,6 +192,19 @@
       url: https://arxiv.org/abs/2304.06712
       authors: "Aleksandar Shtedritski, Christian Rupprecht, Andrea Vedaldi"
       year: 2023
+
+- date: 10/30
+  lecturer: Grant
+  title: <strong>Vision + Language</strong>
+  readings:
+    - title: "Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions"
+      url: https://arxiv.org/abs/2401.02460
+      authors: "Oindrila Saha, Grant Van Horn, Subhransu Maji"
+      year: 2024
+    - title: "Boosting Vision-Language Models with Transduction"
+      url: https://arxiv.org/abs/2406.01837
+      authors: "Maxime Zanella, Benoît Gérin, Ismail Ben Ayed"
+      year: 2024
 
 - date: 11/3
   logistics: 
