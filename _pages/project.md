@@ -86,17 +86,17 @@ Teams are required to submit a 4-page midpoint project report (excluding referen
 The project description, related work, and dataset and compute requirements sections should be updated to reflect any new insights or adjustments as the project scope becomes clearer.
 
 ### Grading Breakdown for Midpoint Project Report
-- **10%**: Clarity and conciseness of the project method description.
+- **25%**: Clarity and conciseness of the project method description and an explantion of novelty.
 - **10%**: Quality and thoroughness of the literature survey.
-- **10%**: Discussion of data and compute requirements.
-- **50%**: Clear description and effective visualization of preliminary experiment results.
-- **20%**: Well-defined plan for the next set of experiments and analyses.
+- **15%**: Clear description of experiment procedure, including data and compute requirements.
+- **40%**: Clear description and effective visualization of preliminary experiment results.
+- **10%**: Well-defined plan for the next set of experiments and analyses.
 
 ### Midpoint Presentation
 Teams will also deliver a 4-minute presentation to update the class on their project's progress. The order of presentations will be randomized, and all teams will present using a shared Google Slides deck. Each team will present one after the other. Teams must strictly adhere to the 4-minute time limit; they may use less time if needed, but cannot exceed 4 minutes. All team members must be present and must participate in the presentation unless precluded by illness. Depending on the number of teams, there may be 1-2 minutes for questions and feedback if time permits.
 
 ### Grading Breakdown for Midpoint Presentation
-- **25%**: Clear description of the project and its motivation.
+- **25%**: Clear description and motivation of the project and your method.
 - **25%**: Presentation of current results and their significance.
 - **25%**: Feasibility and clarity of the plan for upcoming activities.
 - **25%**: Clarity and engagement of the presentation.
