@@ -224,7 +224,14 @@
 
 - date: 11/18
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Style Transfer</strong>
+  readings:
+    - title: "Image Style Transfer Using Convolutional Neural Networks"
+      url: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+      authors: "Leon Gatys, Alexander Ecker, Matthias Bethge"
+      year: 2016
+  logistics: 
+    Poster Presenation Info
 
 - date: 11/20
   lecturer: Grant
