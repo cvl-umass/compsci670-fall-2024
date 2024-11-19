@@ -235,7 +235,16 @@
 
 - date: 11/20
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Textures & Image Priors</strong>
+  readings:
+    - title: "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images"
+      url: https://arxiv.org/abs/1603.03417
+      authors: "Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, Victor Lempitsky"
+      year: 2016
+    - title: "Deep Image Prior"
+      url: https://arxiv.org/abs/1711.10925
+      authors: "Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky"
+      year: 2017
 
 - date: 11/25
   lecturer: Grant
