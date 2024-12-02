@@ -248,11 +248,20 @@
 
 - date: 11/25
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>No Class</strong>
 
 - date: 12/2
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Radiance Fields</strong>
+  readings:
+    - title: "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"
+      url: https://arxiv.org/abs/2003.08934
+      authors: "Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng"
+      year: 2020
+    - title: "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+      url: https://arxiv.org/abs/2308.04079
+      authors: "Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis"
+      year: 2023
 
 - date: 12/4
   lecturer: Grant
