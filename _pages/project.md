@@ -114,12 +114,12 @@ The final report should include the following:
 - **Conclusions and Findings**: Summarize the overall conclusions and key findings from the project.
 
 ### Grading Breakdown for Final Project Report
-- **5%**: Introduction and project overview.
-- **5%**: Quality and completeness of the literature survey.
-- **5%**: Discussion of data and compute requirements.
-- **30%**: Correctness, completeness, and difficulty of experiments and figures.
-- **30%**: Empirical and theoretical analysis of results and methods.
-- **25%**: Quality of writing, including clarity, organization, and flow.
+- **5%**: Introduction: project motivation and summarized contributions
+- **10%**: Related work: clear overview of prior work in relevant topic areas; explicit differences or extensions to prior work; thoroughness
+- **15%**: Method: description of components
+- **25%**: Experiments: description, completeness, ablations, reproducibility, compute & data needs
+- **25%**: Results: analysis and discussion, adequate comparisons to prior work, takeaways and conclusions
+- **20%**: Figures and tables: usefulness, clarity, descriptive captions
 
 ### Final Poster Presentation
 At the end of the semester, all teams are required to create a poster summarizing their project and present it during a designated poster session. Details on poster size, formatting, and printing deadlines will be provided later in the semester. All team members must be present for the poster presentation, and each member must participate in the presentation (unless precluded by illness). The presentation order will be randomized.
