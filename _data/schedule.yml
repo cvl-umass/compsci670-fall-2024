@@ -265,7 +265,16 @@
 
 - date: 12/4
   lecturer: Grant
-  title: <strong>TBD</strong>
+  title: <strong>Diffusion Models</strong>
+  readings:
+    - title: "Denoising Diffusion Probabilistic Models"
+      url: https://arxiv.org/abs/2006.11239
+      authors: "Jonathan Ho, Ajay Jain, Pieter Abbeel"
+      year: 2020
+    - title: "Video Diffusion Models"
+      url: https://arxiv.org/abs/2204.03458
+      authors: "Jonathan Ho, Tim Salimans, Alexey Gritsenko, William Chan, Mohammad Norouzi, David J. Fleet"
+      year: 2022
 
 - date: 12/8
   logistics:
